@@ -1,0 +1,39 @@
+<html>
+    <head>
+<title>Patricia Hanus</title>
+
+<link rel="stylesheet" type="text/css" href="PHanusStyle.css">
+
+</head>
+<body>
+
+<header>
+	<a href="">
+		<div class="logo"></div>
+		<div class="name">Patricia Hanus</div>
+	</a>
+	<ul>
+		<li><a href="">Prelude</a></li>
+		<li><a href="">College Classes</a></li>
+		<li><a href="">Creative Writing</a></li>
+		<!--<li><a href="">Music</a></li>-->
+		<li><a href="">Press</a></li>
+		<li><a href="">Publications</a></li>
+		<li><a href="" class="current">Resumes</a></li>
+		<li><a href="">Science Fair</a></li>
+	</ul>
+</header>
+
+<div class="content">
+<div class="container">
+
+<h1>Resume</h1>
+
+<p>Oh, very nice, very nice, resumes, very nice.</p>
+
+<!-- upload resumes -->
+
+</div>
+</div>
+</body>
+</html>
